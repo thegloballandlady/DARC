@@ -537,3 +537,4 @@ Since Hardhat and OpenZeppelin are used, the project can be built using the foll
     ```shell
     npm run deploy
     ```
+hello, i am Vida from Africa.
